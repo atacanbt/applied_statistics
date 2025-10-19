@@ -15,13 +15,13 @@ This repository provides solutions to the lecturer's [Applied Statistics assessm
 	 ```
 
 2. **Set up Python environment:**
-	 - With venv (recommended):
+	 - With `venv` (recommended):
 		 ```bash
 		 python -m venv .venv
 		 source .venv/bin/activate
 		 pip install --upgrade pip
 		 ```
-	 - Or with Conda:
+	 - Or with `Conda`:
 		 ```bash
 		 conda create --name statsenv python=3.10
 		 conda activate statsenv
@@ -42,8 +42,7 @@ This repository provides solutions to the lecturer's [Applied Statistics assessm
 		 jupyter notebook
 		 ```
 	 - Or launch in Google Colab:
-		 
-         <a target="_blank" href="https://colab.research.google.com/github/atacanbt/applied_statistics/blob/main/problems.ipynb">
+<a target="_blank" href="https://colab.research.google.com/github/atacanbt/applied_statistics/blob/main/problems.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
@@ -63,7 +62,7 @@ This repository provides solutions to the lecturer's [Applied Statistics assessm
 ## Style and Conventions
 
 - Code is written for clarity, with explanatory markdown in notebooks.
-- Plots use Matplotlib and Seaborn, labeled for publication-quality output.
+- Plots use `Matplotlib` and `Seaborn`, labeled for publication-quality output.
 
 
 
