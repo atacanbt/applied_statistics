@@ -74,7 +74,7 @@ References are cited within `problems.ipynb` where used.
 
 ## Acknowledgments
 
-- Assessment problems and guidance provided by the module [lecturer](https://github.com/ianmcloughlin/applied-statistics)
+- Assessment problems and guidance provided by the module [lecturer](https://github.com/ianmcloughlin/applied-statistics).
 
 
 ## Contact
