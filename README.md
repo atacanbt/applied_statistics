@@ -2,7 +2,7 @@
 # HDip Data Analytics — Applied Statistics
 
 This repository provides solutions to the lecturer's [Applied Statistics assessment problems](https://github.com/ianmcloughlin/applied-statistics/blob/main/assessment/problems.md).
-
+It demonstrates simulation-based statistical reasoning, hypothesis testing, and clear communication of results using Jupyter notebooks.
 
 
 
@@ -61,8 +61,9 @@ This repository provides solutions to the lecturer's [Applied Statistics assessm
 
 ## Style and Conventions
 
-- Code is written for clarity, with explanatory markdown in notebooks.
-- Plots use `Matplotlib` and `Seaborn`, labeled for publication-quality output.
+- Notebooks are structured as narratives, combining code, results, and interpretation.
+- Code cells are kept short and focused, with explanations provided in markdown.
+- Visualizations use `Matplotlib` and `Seaborn` and are clearly labelled.
 
 
 
@@ -73,7 +74,7 @@ References are cited within `problems.ipynb` where used.
 
 ## Acknowledgments
 
-- Assessment and notebook prompts by [the lecturer](https://github.com/ianmcloughlin/applied-statistics)
+- Assessment problems and guidance provided by the module [lecturer](https://github.com/ianmcloughlin/applied-statistics)
 
 
 ## Contact
